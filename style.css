@@ -1,0 +1,12 @@
+body {
+  background-color: blanchedalmond;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+input {
+  border: 3px solid slategray;
+}
